@@ -8,4 +8,6 @@ This repository contains sample code for unit testing with javascript.
 
 ## Development
 
+All testing in this project is done using [Jest](https://jestjs.io/docs/getting-started)
+
 - Run tests with `npm run test`
