@@ -1,5 +1,6 @@
 const each = require("jest-each").default
-const getLargest = require("../getLargest")
+const { getLargest, getSmallest } = require("../numberFunctions")
+
 
 describe("getLargest", () => {
     test("It is a function", () => {
